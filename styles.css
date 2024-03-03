@@ -3,6 +3,20 @@ body {
     padding: 0;
 }
 
+h1 {
+    font-size: 1.5rem;
+}
+
+.heading {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    
+}
+
 button {
     width: 500px ;
     cursor: pointer;
@@ -13,7 +27,7 @@ button {
     justify-content: center;
     align-items: center;
     gap: 2rem;
-    padding-top: 100px;
+    padding-top: 50px;
     padding-left: 20px;
     padding-right: 20px;
 
@@ -24,4 +38,9 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 25px;
+    font-size: 1.2rem;
 }
