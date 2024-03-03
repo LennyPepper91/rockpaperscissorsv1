@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    width: 500px ;
+    cursor: pointer;
+}
+
+.btn_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding-top: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    
+}
+
+#results {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
